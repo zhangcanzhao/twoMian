@@ -1,5 +1,5 @@
 # multulr
-
+该demo是拷贝 https://github.com/Jasonwang911/numtller
 > A Vue.js project
 
 ## Build Setup
